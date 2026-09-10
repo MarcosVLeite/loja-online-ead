@@ -1,4 +1,4 @@
-# Loja Online - Campanha de Natal
+# Loja Online - Titulo para a campanha de frete
  ## Conta
  Duvidas: contato@loja.com.br
  Contato Tel: 11 0000-0000
