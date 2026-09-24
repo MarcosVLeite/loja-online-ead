@@ -4,7 +4,7 @@
   "description": "Projeto de exemplo do curso Git, Agile & Dev Culture",
   "main": "app.js",
   "scripts": {
-    "test": "node --test"
+     "test": "node --test"
   },
   "license": "MIT"
 }
